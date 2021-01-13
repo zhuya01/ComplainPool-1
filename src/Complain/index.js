@@ -9,5 +9,4 @@ export default {
     Create:Create,
     List:List,
     Content:Content
-    
 }
