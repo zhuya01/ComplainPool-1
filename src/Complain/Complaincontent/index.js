@@ -375,7 +375,6 @@ function Detail(props) {
                             dataSource={cqlData}
                             renderItem={item => {
                               return (
-                                
                               <List.Item
                               id={indexCss.item}
                               >
